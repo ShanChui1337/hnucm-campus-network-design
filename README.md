@@ -30,4 +30,22 @@
 - 综合布线设计（光纤、网线、电力）
 - 完整设备清单及报价清单
 
-## 文件结构
+## 演示图
+
+<table>
+  <tr>
+        <td><img src="[https://oscimg.oschina.net/oscnet/up-42e518aa72a24d228427a1261cb3679f395.png](https://cdn.phototourl.com/free/2026-05-21-aa04e07e-ea63-4fb5-b701-c388f4f24b73.png)"/></td>
+  </tr>
+  <tr>
+        <td><img src="[https://oscimg.oschina.net/oscnet/up-42e518aa72a24d228427a1261cb3679f395.png](https://cdn.phototourl.com/free/2026-05-21-4c944282-cfba-4960-9ba7-504a7bfc0f3d.jpg)"/></td>
+  </tr>
+  <tr>
+        <td><img src="[https://oscimg.oschina.net/oscnet/up-42e518aa72a24d228427a1261cb3679f395.png](https://cdn.phototourl.com/free/2026-05-21-d5c5a689-1173-4459-879e-1a59f34e9e26.png)"/></td>
+  </tr>
+  <tr>
+        <td><img src="[https://oscimg.oschina.net/oscnet/up-42e518aa72a24d228427a1261cb3679f395.png](https://cdn.phototourl.com/free/2026-05-21-298ea7ea-59c0-4368-8e0b-ec4f7ded6de1.png)"/></td>
+  </tr>
+  <tr>
+        <td><img src="[https://oscimg.oschina.net/oscnet/up-42e518aa72a24d228427a1261cb3679f395.png](https://cdn.phototourl.com/free/2026-05-21-9b91ff2d-fe30-4c95-8004-077d7bc76836.jpg)"/></td>
+  </tr>
+</table>
